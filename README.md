@@ -147,7 +147,7 @@ jobs:
 
       - name: 🛠️ Build Docker Image
         run: |
-          docker build -t aakif/static-site:latest .
+          docker build -t ascloudx/static-site:latest .
 ```
 
 Push the changes:
