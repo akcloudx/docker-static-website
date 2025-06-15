@@ -38,7 +38,7 @@ The goal is to give beginners hands-on experience with:
 | 👨‍💻 HTML/CSS | Static website content |
 | 🔁 Git & GitHub | Source control and project collaboration |
 | ⚙️ GitHub Actions | CI/CD automation |
-| 🐧 Ubuntu (Local Server) | Optional, for hosting the site |
+| 🐧 Ubuntu (Local Server) | for hosting the site |
 
 ---
 
@@ -162,7 +162,7 @@ Now visit the **Actions** tab on your GitHub repo and you’ll see the workflow 
 
 ---
 
-## 🌐 Optional: Hosting the Website on Your Server
+## 🌐 Hosting the Website on Your Server
 
 If you have a local or cloud server:
 
